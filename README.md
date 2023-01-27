@@ -2,7 +2,7 @@
 
 > An animated single webpage.
 
-![01-dark-red-webpage]()
+![01-dark-red-webpage](images/01-dark-red-webpage.gif)
 
 ### Features
 
